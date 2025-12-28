@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Conference",
+    "nomEvenement": "Conférence Intelligence Artificielle",
+    "date": "2025-01-20",
+    "heureDebut": "10:00",
+    "heureFin": "12:00",
+    "lieu": "Amphithéâtre A",
+    "description": "Introduction à l'IA et ses applications",
+    "capaciteMax": 100,
+    "nbreInscrits": 45,
+    "typeEvenement": "Conférence",
+    "organisateur": "Club Informatique",
+    "statut": "ouvert",
+    "prix": 50.0,
+    "intervenant": "Dr. Ahmed Ben Ali"
+  },
+  {
+    "type": "Atelier",
+    "nomEvenement": "Atelier Développement Web",
+    "date": "2025-01-25",
+    "heureDebut": "14:00",
+    "heureFin": "17:00",
+    "lieu": "Salle B12",
+    "description": "Apprendre les bases du développement web",
+    "capaciteMax": 30,
+    "nbreInscrits": 28,
+    "typeEvenement": "Atelier",
+    "organisateur": "Club Dev",
+    "statut": "ouvert",
+    "prix": 0.0,
+    "materielNecessaire": "Ordinateur portable"
+  },
+  {
+    "type": "EvenementSocial",
+    "nomEvenement": "Soirée Networking",
+    "date": "2025-02-01",
+    "heureDebut": "18:00",
+    "heureFin": "21:00",
+    "lieu": "Jardin de l'IHEC",
+    "description": "Rencontre entre étudiants et professionnels",
+    "capaciteMax": 80,
+    "nbreInscrits": 65,
+    "typeEvenement": "Evenement social",
+    "organisateur": "BDE",
+    "statut": "ouvert",
+    "prix": 10.0,
+    "theme": "Carrières en Tech"
+  }
+]
